@@ -55,6 +55,3 @@ The provided Python script implements a basic budget tracker program. Here's a b
    - Handles invalid input by informing the user and prompting them to try again.
 
 This script provides users with essential tools to manage their budget, allowing them to track income, expenses, and analyze spending patterns by category. Additionally, it ensures data persistence by saving transactions to a file for future use.
-
-
-# Edited on october 02
